@@ -1,5 +1,7 @@
 # Quantitative Risk Engine: Brent Crude Oil 🛢️
 
+[![Open In Nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/quantgigi/Quantitative-Risk-Engine-Brent/blob/main/Final_Script.ipynb)
+
 This project implements an asymmetric volatility forecasting engine using **GJR-GARCH** models to estimate dynamic **Value-at-Risk (VaR)** on Brent Crude Oil.
 
 ---
